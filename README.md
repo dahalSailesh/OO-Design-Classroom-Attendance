@@ -1,4 +1,4 @@
-# OODesignQuestion Writeup
+# OO-Design: Classroom Attendance
 
 Q2:
     In a specific high school, students have to swipe their IDs when they come to class in order to take
