@@ -1,0 +1,5 @@
+module DesignQuestion {
+	
+	requires junit;
+	
+}
